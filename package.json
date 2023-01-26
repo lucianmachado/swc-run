@@ -1,0 +1,11 @@
+{
+  "name": "swc-run",
+  "version": "0.0.1",
+  "bin": "./bin/swc-node",
+  "license": "MIT",
+  "dependencies": {
+    "@swc-node/register": "^1.5.5",
+    "@swc/core": "latest",
+    "typescript": "latest"
+  }
+}
